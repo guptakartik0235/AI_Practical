@@ -3,10 +3,22 @@
 
 ## Introduction ## 
 Hey there!
-I am Kartik Gupta & i have Uploaded a Repository with my 9 python Basic codes.
+I am Kartik Gupta & i have Uploaded a Repository with 
+* 9 python Basic codes  
+* Shape Detector - Intermediate Level
+## **Codes** ##
+1. Triangle Can or Can't
+2. The Tasks List Creator
+3. The Image Displayer
+4. The Work Place Teller
+5. Rectangle or Square
+6. Sum & Average Calculator
+7. Image Blur
+8. Image Resizer
+9. Triangle Type 
+10. Shape Detector
 
-
-* The code of [1.py]()
+* The code of [1.py](1.py)
 
 Explaination This code inputs 3 sides of a triangle and tells that if they are right to form a Triangle or not.
 
@@ -44,7 +56,7 @@ Explanation The code inputs path of any Image and resize it to desired size for 
 
 Explaination The code inputs the lenght of the sides of triangle without SI unit & tells the type of Triangle it is.
 
-The code of ShapeDetector.py
+## ***The code of ShapeDetector.py*** ##
 
 Explaination The Code Inputs the Path of an Image which Contain various 2D - shapes & detect many shapes and also label them It Requires Cv2 & Numpy Library to be Installed.
 
