@@ -3,20 +3,20 @@
 
 ## Introduction ## 
 Hey there!
-I am Kartik Gupta & i have Uploaded a Repository with 
+I am Kartik Gupta & this is my  a Repository with 
 * 9 python Basic codes  
 * Shape Detector - Intermediate Level
 ## **Codes** ##
 1. [Triangle Can or Can't](1.py)
-2. The Tasks List Creator
-3. The Image Displayer
-4. The Work Place Teller
-5. Rectangle or Square
-6. Sum & Average Calculator
-7. Image Blur
-8. Image Resizer
-9. Triangle Type 
-10. Shape Detector
+2. [The Tasks List Creator](2.py)
+3. [The Image Displayer](3.py)
+4. [The Work Place Teller](4.py)
+5. [Rectangle or Square](5.py)
+6. [Sum & Average Calculator](6.py)
+7. [Image Blur](7.py)
+8. [Image Resizer](8.py)
+9. [Triangle Type](9.py)
+10.[Shape Detector]
 
 * The code of [1.py](1.py)
 
