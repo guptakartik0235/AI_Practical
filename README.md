@@ -1,11 +1,17 @@
 # Ai Practical
 
 
-## Introduction ## 
+# **Introduction** # 
 Hey there!
-I am Kartik Gupta & this is my  a Repository with 
+I am Kartik Gupta & this is my Repository with 
 * 9 python Basic codes  
 * Shape Detector - Intermediate Level
+
+# **Requirements** #
+* [Python](https://www.python.org/downloads/) version 3.6.0 or higher.
+* [opencv](https://opencv.org/releases/) and [numpy](https://numpy.org/install/) modules installed
+* Any IDE like:- ([Pycharm](https://www.jetbrains.com/pycharm/download/) or [Visual Studio code](https://code.visualstudio.com/download))
+
 ## **Codes** ##
 1. [Triangle Can or Can't](1.py)
 2. [The Tasks List Creator](2.py)
@@ -18,10 +24,7 @@ I am Kartik Gupta & this is my  a Repository with
 9. [Triangle Type](9.py)
 10. [Shape Detector](ShapeDetector.py)
 
-# **Requirements** #
-* [Python](https://www.python.org/downloads/) version 3.6.0 or higher.
-* [opencv](https://opencv.org/releases/) and [numpy](https://numpy.org/install/) modules installed
-* Any IDE like:- ([Pycharm](https://www.jetbrains.com/pycharm/download/) or [Visual Studio code](https://code.visualstudio.com/download))
+
 
 * The code of [1.py](1.py)
 
