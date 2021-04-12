@@ -1,3 +1,4 @@
+![1st code img](https://user-images.githubusercontent.com/81790487/114462454-ae1cfb00-9c00-11eb-8b94-d71aad393f5f.PNG)
 # <ins>Ai Practical </ins>
 
 
