@@ -18,6 +18,11 @@ I am Kartik Gupta & this is my  a Repository with
 9. [Triangle Type](9.py)
 10. [Shape Detector](ShapeDetector.py)
 
+# **Requirements** #
+* [Python](https://www.python.org/downloads/) version 3.6.0 or higher.
+* [opencv](https://opencv.org/releases/) and [numpy](https://numpy.org/install/) modules installed
+* Any IDE like:- ([Pycharm](https://www.jetbrains.com/pycharm/download/) or [Visual Studio code](https://code.visualstudio.com/download))
+
 * The code of [1.py](1.py)
 
 Explaination This code inputs 3 sides of a triangle and tells that if they are right to form a Triangle or not.
