@@ -1,5 +1,5 @@
 
-                                    <h1>**Ai Practical**</h1>
+                                    Ai Practical
                                                                                 (By :- Kartik Gupta )
 
 The code of 1.py
