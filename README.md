@@ -1,4 +1,4 @@
-![1st code img](https://user-images.githubusercontent.com/81790487/114462454-ae1cfb00-9c00-11eb-8b94-d71aad393f5f.PNG)
+
 # <ins>Ai Practical </ins>
 
 
@@ -27,6 +27,7 @@ I am Kartik Gupta & this is my Repository with
 
 ## **Explanation** ##
 * ###  [1st Code](1.py)
+![1st code img](https://user-images.githubusercontent.com/81790487/114462454-ae1cfb00-9c00-11eb-8b94-d71aad393f5f.PNG)
 Inputs - The code inputs 3 sides of 
 Explaination This code inputs 3 sides of a triangle and tells that if they are right to form a Triangle or not.
 ***
