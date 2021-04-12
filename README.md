@@ -1,6 +1,12 @@
 # Ai Practical
 
-* The code of 1.py
+
+## Introduction ## 
+Hey there!
+I am Kartik Gupta & i have Uploaded a Repository with my 9 python Basic codes.
+
+
+* The code of [1.py]()
 
 Explaination This code inputs 3 sides of a triangle and tells that if they are right to form a Triangle or not.
 
