@@ -1,13 +1,13 @@
-# Ai Practical
+# <ins>Ai Practical </ins>
 
 
-# **Introduction** # 
+## **Introduction** # 
 Hey there!
 I am Kartik Gupta & this is my Repository with 
 * 9 python Basic codes  
 * Shape Detector - Intermediate Level
 
-# **Requirements** #
+## **Requirements** #
 * [Python](https://www.python.org/downloads/) version 3.6.0 or higher.
 * [opencv](https://opencv.org/releases/) and [numpy](https://numpy.org/install/) modules installed
 * Any IDE like:- ([Pycharm](https://www.jetbrains.com/pycharm/download/) or [Visual Studio code](https://code.visualstudio.com/download))
