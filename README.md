@@ -7,7 +7,7 @@ I am Kartik Gupta & i have Uploaded a Repository with
 * 9 python Basic codes  
 * Shape Detector - Intermediate Level
 ## **Codes** ##
-1. Triangle Can or Can't
+1. [Triangle Can or Can't](1.py)
 2. The Tasks List Creator
 3. The Image Displayer
 4. The Work Place Teller
