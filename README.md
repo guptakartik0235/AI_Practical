@@ -16,7 +16,7 @@ I am Kartik Gupta & this is my  a Repository with
 7. [Image Blur](7.py)
 8. [Image Resizer](8.py)
 9. [Triangle Type](9.py)
-10.[Shape Detector]
+10. [Shape Detector](ShapeDetector.py)
 
 * The code of [1.py](1.py)
 
