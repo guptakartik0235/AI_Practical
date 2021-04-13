@@ -67,7 +67,7 @@ __The Image Below Shows the result to the code__
 ***
 * ### [5th Code](5.py)
 **Inputs** - The code requires 2 inputs that are length and breadth of either a Rectangle or Square <br />
-**Working** - The code uses the inputs & process them through if-else condition . <br /> 
+**Working** - The code uses the inputs & process them through **if-else condition** . <br /> 
 **Results** - The results tells us if the figure is a Rectangle or Square alongwith its Area & Perimeter . <br />
 
 __The Image Below Shows the result to the code__
@@ -76,10 +76,14 @@ __The Image Below Shows the result to the code__
 
 ***
 * ### [6th Code](6.py)
+**Inputs** - The code requires input of the Length of list you want to create & also the list  <br />
+**Working** - The code inputs the Length of list you mentioned and uses a **For-loop** to take inputs of the list. <br /> 
+**Results** - The results prints the Average & Sum of the all elements of the list  . <br />
 
-Explaination The code first inputs the Length of the list you want to create
+__The Image Below Shows the result to the code__
 
-It then calculates the average & Sum of the Integers in the list For eg:- It inputs list like:-1,2,3,5(Input with Commas but without Spaces) Then After pressing "Enter" It Tells us the sum & Average of the List
+![6th code img](https://user-images.githubusercontent.com/81790487/114579410-73b46c00-9c9b-11eb-8ea1-6bf085c5a0e3.PNG)
+
 ***
 * ### [7th Code](7.py)
 
