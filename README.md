@@ -27,10 +27,10 @@ I am Kartik Gupta & this is my Repository with
 
 ## **Explanation** ##
 * ###  [1st Code](1.py)
-![1st code img](https://user-images.githubusercontent.com/81790487/114462454-ae1cfb00-9c00-11eb-8b94-d71aad393f5f.PNG)
 **Inputs** - The code requires 3 sides of triangle as input. <br />
 **Working** - The Code first stores the value of the 3 inputs in from of variables & then it compares every side using logic that the sum of two sides is never Greater than 3rd Side.<br /> 
-**Results** - The results tells us if these Dimensions could form a Triangle.
+**Results** - The results tells us if these Dimensions could form a Triangle.<br />
+![1st code img](https://user-images.githubusercontent.com/81790487/114462454-ae1cfb00-9c00-11eb-8b94-d71aad393f5f.PNG)
 ***
 * ### [2nd Code](2.py)
 
