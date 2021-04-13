@@ -41,8 +41,6 @@ __The Output is as Shown in the Image Below__
 
 ![2nd code img](https://user-images.githubusercontent.com/81790487/114575148-862ca680-9c97-11eb-8554-203c502b558d.PNG)
 
-
-Explaination The code inputs the length of the dictionary you want to create then it Inputs any string or Integer According to mentioned lenght and creates one dictionary for you
 ***
 * ### [3rd Code](3.py)
 **Inputs** - The code requires an path of an Image as input to be added in the code. <br />
@@ -105,8 +103,6 @@ __The Image Below Shows the result to the code__
 
 ![8th code img](https://user-images.githubusercontent.com/81790487/114587858-aeba9d80-9ca3-11eb-997b-3fd4bdeb5757.PNG)
 
-
-Explanation The code inputs path of any Image and resize it to desired size for you You can can change values of x and y to change Resize Image accordingly eg :- If you want an image to be converted to the size of 240 * 360 ,then you just simply put x = 240 & y = 360 when it asks for input.
 ***
 * ### [9th Code](9.py)
 **Inputs** - The code requires input of length of various sides of Triangle . <br />
