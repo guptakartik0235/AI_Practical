@@ -29,21 +29,29 @@ I am Kartik Gupta & this is my Repository with
 * ###  [1st Code](1.py)
 **Inputs** - The code requires 3 sides of triangle as input. <br />
 **Working** - The Code first stores the value of the 3 inputs in from of variables & then it compares every side using logic that the sum of two sides of triangles is never Greater than 3rd Side. 
-**Results** - The results tells us if these Dimensions could form a Triangle.<br />
+<br />**Results** - The results tells us if these Dimensions could form a Triangle.<br />
 ![1st code img](https://user-images.githubusercontent.com/81790487/114462454-ae1cfb00-9c00-11eb-8b94-d71aad393f5f.PNG)
 ***
 * ### [2nd Code](2.py)
+**Inputs** - The code at first requires the no. of Task you want to do & then mention the tasks . <br />
+**Working** - The Code uses a for loop as much times as you mentioned tasks to get your all Tasks . 
+<br />**Results** - It make a list of all the tasks mentioned and print it for you .<br />
 
-Explaination The code inputs the length of the dictionary you want to create Then It Inputs any string or Integer According to mentioned lenght and creates one dictionary for you
+__The Output is as Shown in the Image Below__
+
+![2nd code img](https://user-images.githubusercontent.com/81790487/114575148-862ca680-9c97-11eb-8554-203c502b558d.PNG)
+
+
+Explaination The code inputs the length of the dictionary you want to create then it Inputs any string or Integer According to mentioned lenght and creates one dictionary for you
 ***
 * ### [3rd Code](3.py)
-**Inputs** - The code requires an path of an [Image]() as input to be added in the code. <br />
+**Inputs** - The code requires an path of an Image as input to be added in the code. <br />
 **Working** - The Code displays Images using functions of cv2 library. <br /> 
 **Results** - The results displays us Image whose path we added in the code. <br />
 
 __The Image Below Shows the result to the code__<br />  
 ![Lambo](https://user-images.githubusercontent.com/81790487/114567451-e2d89300-9c90-11eb-995a-0522d90ee4e4.jpg)<br />
-Note:- You can add any Image of your choice by just adding its path or you can use the same Image & download it from [here]()  
+Note:- You can add any Image of your choice by just adding its path or you can use the same Image & download it from [here](https://raw.githubusercontent.com/guptakartik0235/AI_Practical/main/lambo.jpg)  
 
 
 ***
