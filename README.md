@@ -61,12 +61,19 @@ Note:- You can add any Image of your choice by just adding its path or you can u
 **Results** - The results displays if we can work anywhere/Urban Areas/error(if you cant work Anywhere). <br />
 
 __The Image Below Shows the result to the code__
+
 ![4th code img](https://user-images.githubusercontent.com/81790487/114577058-54b4da80-9c99-11eb-9398-9c33d106a86d.PNG)
 
 ***
 * ### [5th Code](5.py)
+**Inputs** - The code requires 2 inputs that are length and breadth of either a Rectangle or Square <br />
+**Working** - The code uses the inputs & process them through if-else condition . <br /> 
+**Results** - The results tells us if the figure is a Rectangle or Square alongwith its Area & Perimeter . <br />
 
-Explanation The code inputs lenght & width of a rectangle or square. It then tells if it's a rectangle or square along with its area & Perimeter.
+__The Image Below Shows the result to the code__
+
+![5th code img](https://user-images.githubusercontent.com/81790487/114578373-71054700-9c9a-11eb-84d8-b5b3ae937f35.PNG)
+
 ***
 * ### [6th Code](6.py)
 
