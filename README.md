@@ -40,7 +40,7 @@ Explaination The code inputs the lenght of the dictionary you want to create The
 **Inputs** - The code requires an path of an [Image]() as input to be added in the code. <br />
 **Working** - The Code displays Images using functions of cv2 library. <br /> 
 **Results** - The results displays us Image whose path we added in the code.
-![lambo](https://user-images.githubusercontent.com/81790487/114567451-e2d89300-9c90-11eb-995a-0522d90ee4e4.jpg)
+![Results Of the Code](https://user-images.githubusercontent.com/81790487/114567451-e2d89300-9c90-11eb-995a-0522d90ee4e4.jpg)
 
 
 ***
