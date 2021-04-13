@@ -99,7 +99,7 @@ __The Image Below Shows the result to the code__
 * ### [8th Code](8.py)
 **Inputs** - The code requires input of resized Width & Height of the Image. <br />
 **Working** - The code uses the resize function of cv2 Library  . <br /> 
-**Results** - The code Stores the input values and convert images to size as Input from the user. . <br />
+**Results** - The code Stores the input values and convert images to size as Input from the user. <br />
 
 __The Image Below Shows the result to the code__
 
@@ -109,9 +109,13 @@ __The Image Below Shows the result to the code__
 Explanation The code inputs path of any Image and resize it to desired size for you You can can change values of x and y to change Resize Image accordingly eg :- If you want an image to be converted to the size of 240 * 360 ,then you just simply put x = 240 & y = 360 when it asks for input.
 ***
 * ### [9th Code](9.py)
+**Inputs** - The code requires input of length of various sides of Triangle . <br />
+**Working** - The code uses simple else-if conditions. <br /> 
+**Results** - The code differentiates between Scalene,Isoceles & Equilateral Triangle <br />
 
-Explaination The code inputs the lenght of the sides of triangle without SI unit & tells the type of Triangle it is.
+![9th code img](https://user-images.githubusercontent.com/81790487/114588863-c5152900-9ca4-11eb-82ca-e1e1b10fee0d.PNG)
 
+***
 ## **[The code of ShapeDetector.py](ShapeDetector.py)** ##
 
 Explaination The Code Inputs the Path of an Image which Contain various 2D - shapes & detect many shapes and also label them It Requires Cv2 & Numpy Library to be Installed.
