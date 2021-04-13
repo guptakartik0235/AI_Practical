@@ -37,7 +37,9 @@ I am Kartik Gupta & this is my Repository with
 Explaination The code inputs the lenght of the dictionary you want to create Then It Inputs any string or Integer According to mentioned lenght and creates one dictionary for you
 ***
 * ### [3rd Code](3.py)
-
+**Inputs** - The code requires an [Image]() as input. <br />
+**Working** - The Code first stores the value of the 3 inputs in from of variables & then it compares every side using logic that the sum of two sides is never Greater than 3rd Side.<br /> 
+**Results** - The results tells us if these Dimensions could form a Triangle.
 Explaination The code inputs path of an image and displays the image at Particular Path It requires opencv-python library to be installed within the computer
 ***
 * ### [4th Code](4.py)
