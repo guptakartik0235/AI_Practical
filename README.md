@@ -56,8 +56,13 @@ Note:- You can add any Image of your choice by just adding its path or you can u
 
 ***
 * ### [4th Code](4.py)
+**Inputs** - The code requires 2 inputs first one is age & second is Gender(But Input in M or F form) <br />
+**Working** - The code uses the inputs & process them through various if-else conditions. <br /> 
+**Results** - The results displays if we can work anywhere/Urban Areas/error(if you cant work Anywhere). <br />
 
-Explanantion The code inputs Age & gender(M Or F) It then tells you if you can work in Urban areas,anywhere and shows error if you can't work Anywhere
+__The Image Below Shows the result to the code__
+![4th code img](https://user-images.githubusercontent.com/81790487/114577058-54b4da80-9c99-11eb-9398-9c33d106a86d.PNG)
+
 ***
 * ### [5th Code](5.py)
 
