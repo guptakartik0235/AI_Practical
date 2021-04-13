@@ -97,6 +97,14 @@ __The Image Below Shows the result to the code__
 **The value of Blur must be odd for Gaussian Blur function to work properly.**
 ***
 * ### [8th Code](8.py)
+**Inputs** - The code requires input of resized Width & Height of the Image. <br />
+**Working** - The code uses the resize function of cv2 Library  . <br /> 
+**Results** - The code Stores the input values and convert images to size as Input from the user. . <br />
+
+__The Image Below Shows the result to the code__
+
+![8th code img](https://user-images.githubusercontent.com/81790487/114587858-aeba9d80-9ca3-11eb-997b-3fd4bdeb5757.PNG)
+
 
 Explanation The code inputs path of any Image and resize it to desired size for you You can can change values of x and y to change Resize Image accordingly eg :- If you want an image to be converted to the size of 240 * 360 ,then you just simply put x = 240 & y = 360 when it asks for input.
 ***
