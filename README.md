@@ -118,9 +118,13 @@ Explanation The code inputs path of any Image and resize it to desired size for 
 ***
 ## **[The code of ShapeDetector.py](ShapeDetector.py)** ##
 
-Explaination The Code Inputs the Path of an Image which Contain various 2D - shapes & detect many shapes and also label them It Requires Cv2 & Numpy Library to be Installed.
+** The Code Inputs the Path of an Image which Contain various 2D - shapes & detect many shapes and also label them It Requires Cv2 & Numpy Library to be Installed.
+I have also added a Picture to Repository named "Shapes.png". Just download it and add its path in ShapeDetector.py at line no. 37
+**
+## **Working Of The Project Take Place as Shown Below** ##
+![shapedetector img](https://user-images.githubusercontent.com/81790487/114591544-a2384400-9ca7-11eb-9b9b-527e993dcd54.PNG)
 
-I have also added a Picture to Repository named "Shapes.png". Just download it and add its path in ShapeDetector.py at line no. 37.
+
 ***
  ## **Credits**  ## 
 __Submitted By :- Kartik Gupta <br />
