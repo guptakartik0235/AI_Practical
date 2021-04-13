@@ -122,7 +122,7 @@ I have also added a Picture to Repository named [shapes.png](https://github.com/
 
 
 ***
- ## **Credits**  ## 
+## Credits  <br />
 __Submitted By :- Kartik Gupta <br />
   Class :- 10th Bluebells <br />
   Roll no. :- 24 <br />
