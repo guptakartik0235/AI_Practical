@@ -86,8 +86,15 @@ __The Image Below Shows the result to the code__
 
 ***
 * ### [7th Code](7.py)
+**Inputs** - The code requires an Image path & inputs the Blur value. <br />
+**Working** - The code uses the cv2 library & its Gaussian Blur function & processes Image . <br /> 
+**Results** - The results displays the Image with the Blur . <br />
 
-Explaination The code Inputs an Image and converts it to a Blurred Image of which you can play with the Blur you need This Program needs opencv-python or cv2 module to be installed You can increase the value of x for increase in Blur effect (But value of x should be odd ) You must also enter the path of Img you want within double Inverted Commas.
+__The Image Below Shows the result to the code__
+
+![7th code img](https://user-images.githubusercontent.com/81790487/114583886-aeb89e80-9c9f-11eb-9c5b-70a6fa3c8613.PNG)
+
+**The value of Blur must be odd for Gaussian Blur function to work properly.**
 ***
 * ### [8th Code](8.py)
 
